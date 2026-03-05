@@ -1,0 +1,5 @@
+{
+  "name": "BioLens Engine",
+  "description": "Kecerdasan buatan ahli biologi universal untuk analisis spesies, taksonomi, dan kesehatan biologis melalui gambar.",
+  "requestFramePermissions": ["camera"]
+}
